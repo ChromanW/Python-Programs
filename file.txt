@@ -1,0 +1,41 @@
+Abdullah
+21
+Pakistan
+abc@gmail.com //PK
+abc12345
+
+David
+19
+USA
+david@gmail.com
+david12345
+
+--------------------------------
+abc@gmail.com
+This the content of the post
+
+abc@gmail.com
+This the content of the post
+
+abc@gmail.com
+This the content of the post
+
+def@gmail.com
+This the content of the post
+
+abc@gmail.com
+This the content of the post
+
+def@gmail.com
+This the content of the post
+
+--------------------------------
+abc@gmail.com [david@gmail.com, sam@gmail.com, jakob@gmail.com] 
+
+--------------------------------
+abc@gmail.com - david@gmail.com
+
+Hi, there -abc
+Hi, Abdullah! How are you? -david
+
+-------------------------------
